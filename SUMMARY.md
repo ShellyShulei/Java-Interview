@@ -4,6 +4,10 @@
 
 ## Tree
 
+* [Binary Tree Path Sum To Target III](tree/binary-tree-path-sum-to-target-iii.md)
+* [Binary Tree Path Sum To Target I](tree/binary-tree-path-sum-to-target-i.md)
+* [Maximum Path Sum Binary Tree III](tree/maximum-path-sum-binary-tree-iii.md)
+* [Max Path Sum From Leaf To Root](tree/max-path-sum-from-leaf-to-root.md)
 * [Maximum Path Sum Binary Tree II](tree/maximum-path-sum-binary-tree-ii.md)
 * [Maximum Path Sum Binary Tree I](tree/maximum-path-sum-binary-tree-i.md)
 * [Lowest Common Ancestor VI](tree/lowest-common-ancestor-vi.md)
