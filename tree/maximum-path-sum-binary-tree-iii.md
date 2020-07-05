@@ -8,19 +8,15 @@ Given a binary tree in which each node contains an integer number. Find the maxi
 
 **Examples**
 
-   -5
-
+```text
+    -5
   /    \
-
 2      11
-
      /    \
-
     6     14
-
            /
-
         -3
+```
 
 The maximum path sum is 11 + 14 = 25
 

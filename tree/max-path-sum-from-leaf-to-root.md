@@ -8,15 +8,15 @@ The root of the given binary tree is not null.
 
 Examples
 
-         10
-
+```text
+          10
        /      \
-
     -2        7
-
   /     \
-
 8      -4
+```
+
+        
 
 The maximum path sum is 10 + 7 = 17.
 

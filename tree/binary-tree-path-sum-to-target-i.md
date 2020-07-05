@@ -1,4 +1,4 @@
-# Binary Tree Path Sum To Target I
+# 112. Binary Tree Path Sum To Target I
 
 Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.
 
@@ -32,5 +32,7 @@ return true, as there exist**s** a root-to-leaf path`5->4->11->2`which sum is 22
     }
 ```
 
+Time: O\(n\)
 
+Space: worst is O\(n\)  if tree is balanced, O\(logn\)
 
