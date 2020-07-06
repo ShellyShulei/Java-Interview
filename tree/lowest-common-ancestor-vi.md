@@ -12,16 +12,15 @@ Assumptions
 
 Examples
 
-        5  
-
-
+```text
+        5
       /   \
+     9      12
+   / | \      \
+  1 2 3        14
+```
 
-     9   12
-
-   / \| \      \
-
-  1 2 3     14
+      
 
 The lowest common ancestor of 2, 3, 14 is 5.
 
