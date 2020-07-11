@@ -56,6 +56,8 @@
 
 ## String
 
+* [面试题 08.09. 括号](string/mian-shi-ti-08.09.-kuo-hao.md)
+* [20. Valid Parentheses](string/20.-valid-parentheses.md)
 * [678. Valid Parenthesis String](string/678.-valid-parenthesis-string.md)
 * [151. Reverse Words in a String](string/151.-reverse-words-in-a-string.md)
 
