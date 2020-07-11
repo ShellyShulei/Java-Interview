@@ -37,6 +37,8 @@
 
 ## Array
 
+* [151. Reverse Words in a String](array/151.-reverse-words-in-a-string.md)
+* [71. Simplify Path](array/71.-simplify-path.md)
 * [43. Multiply Strings](array/43.-multiply-strings.md)
 * [3. Longest Substring Without Repeating Characters](array/3.-longest-substring-without-repeating-characters.md)
 * [680. Valid Palindrome II](array/680.-valid-palindrome-ii.md)
