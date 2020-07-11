@@ -37,7 +37,6 @@
 
 ## Array
 
-* [151. Reverse Words in a String](array/151.-reverse-words-in-a-string.md)
 * [71. Simplify Path](array/71.-simplify-path.md)
 * [43. Multiply Strings](array/43.-multiply-strings.md)
 * [3. Longest Substring Without Repeating Characters](array/3.-longest-substring-without-repeating-characters.md)
@@ -49,4 +48,14 @@
 * [153. Find Minimum in Rotated Sorted Array](array/153.-find-minimum-in-rotated-sorted-array.md)
 * [215. Kth Largest Element in an Array](array/215.-kth-largest-element-in-an-array.md)
 * [1029. Two City Scheduling](array/1029.-two-city-scheduling.md)
+
+## DFS
+
+* [剑指 Offer 38. 字符串的排列](dfs/jian-zhi-offer-38.-zi-fu-chuan-de-pai-lie.md)
+* [46. Permutations](dfs/46.-permutations.md)
+
+## String
+
+* [678. Valid Parenthesis String](string/678.-valid-parenthesis-string.md)
+* [151. Reverse Words in a String](string/151.-reverse-words-in-a-string.md)
 
