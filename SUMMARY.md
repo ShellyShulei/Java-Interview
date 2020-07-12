@@ -56,6 +56,10 @@
 
 ## String
 
+* [139. Word Break](string/139.-word-break.md)
+* [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
+* [409. Longest Palindrome](string/409.-longest-palindrome.md)
+* [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](string/1111.-maximum-nesting-depth-of-two-valid-parentheses-strings.md)
 * [面试题 08.09. 括号](string/mian-shi-ti-08.09.-kuo-hao.md)
 * [20. Valid Parentheses](string/20.-valid-parentheses.md)
 * [678. Valid Parenthesis String](string/678.-valid-parenthesis-string.md)
