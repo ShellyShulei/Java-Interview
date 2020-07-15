@@ -51,11 +51,16 @@
 
 ## DFS
 
+* [79. Word Search](dfs/79.-word-search.md)
+* [200. Number of Islands](dfs/200.-number-of-islands.md)
 * [剑指 Offer 38. 字符串的排列](dfs/jian-zhi-offer-38.-zi-fu-chuan-de-pai-lie.md)
 * [46. Permutations](dfs/46.-permutations.md)
 
 ## String
 
+* [8. String to Integer \(atoi\)](string/8.-string-to-integer-atoi.md)
+* [132. Palindrome Partitioning II](string/132.-palindrome-partitioning-ii.md)
+* [131. Palindrome Partitioning](string/131.-palindrome-partitioning.md)
 * [139. Word Break](string/139.-word-break.md)
 * [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
 * [409. Longest Palindrome](string/409.-longest-palindrome.md)
@@ -64,4 +69,8 @@
 * [20. Valid Parentheses](string/20.-valid-parentheses.md)
 * [678. Valid Parenthesis String](string/678.-valid-parenthesis-string.md)
 * [151. Reverse Words in a String](string/151.-reverse-words-in-a-string.md)
+
+## BFS
+
+* [127. Word Ladder](bfs/127.-word-ladder.md)
 
