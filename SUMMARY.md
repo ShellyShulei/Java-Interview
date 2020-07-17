@@ -37,11 +37,11 @@
 
 ## Array
 
-* [547. Friend Circles](array/547.-friend-circles.md)
+* [152. Maximum Product Subarray](array/152.-maximum-product-subarray.md)
+* [53. Maximum Subarray](array/53.-maximum-subarray.md)
 * [56. Merge Intervals](array/56.-merge-intervals.md)
 * [71. Simplify Path](array/71.-simplify-path.md)
 * [43. Multiply Strings](array/43.-multiply-strings.md)
-* [3. Longest Substring Without Repeating Characters](array/3.-longest-substring-without-repeating-characters.md)
 * [680. Valid Palindrome II](array/680.-valid-palindrome-ii.md)
 * [692. Top K Frequent Words](array/692.-top-k-frequent-words.md)
 * [852. Peak Index in a Mountain Array](array/852.-peak-index-in-a-mountain-array.md)
@@ -53,8 +53,10 @@
 
 ## DFS
 
+* [547. Friend Circles](dfs/547.-friend-circles.md)
 * [79. Word Search](dfs/79.-word-search.md)
 * [200. Number of Islands](dfs/200.-number-of-islands.md)
+* [695. Max Area of Island](dfs/695.-max-area-of-island.md)
 * [剑指 Offer 38. 字符串的排列](dfs/jian-zhi-offer-38.-zi-fu-chuan-de-pai-lie.md)
 * [46. Permutations](dfs/46.-permutations.md)
 
@@ -62,6 +64,7 @@
 
 * [8. String to Integer \(atoi\)](string/8.-string-to-integer-atoi.md)
 * [132. Palindrome Partitioning II](string/132.-palindrome-partitioning-ii.md)
+* [3. Longest Substring Without Repeating Characters](string/3.-longest-substring-without-repeating-characters.md)
 * [131. Palindrome Partitioning](string/131.-palindrome-partitioning.md)
 * [139. Word Break](string/139.-word-break.md)
 * [5. Longest Palindromic Substring](string/5.-longest-palindromic-substring.md)
@@ -75,4 +78,18 @@
 ## BFS
 
 * [127. Word Ladder](bfs/127.-word-ladder.md)
+
+## DP
+
+* [Untitled](dp/untitled.md)
+
+## 股票问题
+
+* [121. Best Time to Buy and Sell Stock](gu-piao-wen-ti/121.-best-time-to-buy-and-sell-stock.md)
+* [122. Best Time to Buy and Sell Stock II](gu-piao-wen-ti/122.-best-time-to-buy-and-sell-stock-ii.md)
+* [123. Best Time to Buy and Sell Stock III](gu-piao-wen-ti/123.-best-time-to-buy-and-sell-stock-iii.md)
+
+## DP <a id="dp-1"></a>
+
+* [221. Maximal Square](dp-1/221.-maximal-square.md)
 
