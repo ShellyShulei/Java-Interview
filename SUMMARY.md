@@ -93,3 +93,13 @@
 
 * [221. Maximal Square](dp-1/221.-maximal-square.md)
 
+## Math
+
+* [Number Of Different Bits](math/number-of-different-bits.md)
+* [231. Power of Two](math/231.-power-of-two.md)
+* [136. Single Number](math/136.-single-number.md)
+
+## Topological Sort
+
+* [207. Course Schedule](topological-sort/207.-course-schedule.md)
+
