@@ -63,7 +63,7 @@ public class Solution {
       one = one.parent;
     }
      while (two != null) {
-      if (set.contains(one)) {
+      if (set.contains(two)) {
         return two;
       } 
       set.add(two);
